@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\microsoft visual studio\dvd and collection\dvd and collection\main.cpp : fatal error C1041: cannot open program database 'E:\Microsoft Visual Studio\DVD and Collection\DVD and Collection\Debug\vc141.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  point.cpp
+e:\microsoft visual studio\dvd and collection\dvd and collection\point.cpp : fatal error C1041: cannot open program database 'E:\Microsoft Visual Studio\DVD and Collection\DVD and Collection\Debug\vc141.idb'; if multiple CL.EXE write to the same .PDB file, please use /FS
+  Generating Code...

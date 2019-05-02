@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\muhammad talib\source\repos\polymorphic array\polymorphic array\main.cpp(46): warning C4200: nonstandard extension used: zero-sized array in struct/union
+  c:\users\muhammad talib\source\repos\polymorphic array\polymorphic array\main.cpp(46): note: This member will be ignored by a defaulted constructor or copy/move assignment operator
+  Polymorphic array.vcxproj -> C:\Users\Muhammad Talib\source\repos\Polymorphic array\x64\Debug\Polymorphic array.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\talib waseem\source\repos\dvd\dvd\dvdcollection.h(1): warning C4005: 'NULL': macro redefinition
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\vcruntime.h(220): note: see previous definition of 'NULL'
+  DVD.vcxproj -> c:\Users\talib waseem\source\repos\DVD\Debug\DVD.exe
